@@ -23,14 +23,24 @@ Bu şirketin ürün kataloğunda hediyelik eşyalar yer almaktadır.
 
 
 ## Değişkenler
-InvoiceNo – Fatura Numarası
+InvoiceNo – Fatura Numarası 
+
 Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder.
+
 StockCode – Ürün kodu
+
 Her bir ürün için eşsiz numara.
+
 Description – Ürün ismi
+
 InvoiceDate – Fatura tarihi
+
 UnitPrice – Fatura fiyatı (Sterlin)
+
 CustomerID – Eşsiz müşteri numarası
+
 Country – Ülke ismi
+
 Quantity – Ürün adedi
+
 Faturalardaki ürünlerden kaçar tane satıldığını ifade etmektedir.
