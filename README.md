@@ -1,6 +1,11 @@
-### RFM_Musteri_Segmentasyonu
+### RFM_Musteri_Segmentasyonu ###
 
-İş Problemi
+# Veri Seti 
+https://archive.ics.uci.edu/ml/machine-learning-databases/00502/
+
+
+
+# İş Problemi
 Bir e-ticaret şirketi müşterilerini segmentlere ayırıp bu
 segmentlere göre pazarlama stratejileri belirlemek
 istemektedir.
