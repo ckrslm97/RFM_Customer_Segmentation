@@ -1,4 +1,4 @@
-# RFM_Musteri_Segmentasyonu
+# RFM ile MÜŞTERİ SEGMENTASYONU
 
 # Veri Seti 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00502/
