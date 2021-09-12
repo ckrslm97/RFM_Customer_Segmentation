@@ -1,4 +1,4 @@
-### RFM_Musteri_Segmentasyonu ###
+# RFM_Musteri_Segmentasyonu
 
 # Veri Seti 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00502/
