@@ -1,51 +1,50 @@
-# RFM ile MÜŞTERİ SEGMENTASYONU
+# Customer Segmentation with RFM
 
-# Veri Seti 
+# Data Set 
 https://archive.ics.uci.edu/ml/machine-learning-databases/00502/
 
 
 
-# İş Problemi
-Bir e-ticaret şirketi müşterilerini segmentlere ayırıp bu
-segmentlere göre pazarlama stratejileri belirlemek
-istemektedir.
-Şirket, ortak davranışlar sergileyen müşteri segmentleri
-özelinde pazarlama çalışmaları yapmanın gelir artışı
-sağlayacağını düşünmektedir.
-Örneğin şirket için çok kazançlı olan müşterileri elde tutmak
-için farklı kampanyalar, yeni müşteriler için farklı
-kampanyalar düzenlenmek istenmektedir.
-Müşterileri RFM yöntemi ile segmentlere ayırınız.,
+# Business Problem
+An e-commerce company can segment its customers and create
+determine marketing strategies according to segments
+wants.
+Customer segments that exhibit common behaviors
+increase in revenue by conducting specialized marketing activities
+will provide a good return on investment.
+For example, retaining customers that are very profitable for the company
+different campaigns for new customers, different
+campaigns are desired to be organized.
+Segment the customers with RFM method,
 
-
-## Veri Seti Hikayesi
+## Dataset Story
 Online Retail II
-isimli veri seti İngiltere merkezli online bir satış
-mağazasının 01/12/2009 09/12/2011 tarihleri arasındaki satışlarını
-içermektedir.
-Bu şirketin ürün kataloğunda hediyelik eşyalar yer almaktadır.
-Şirketin müşterilerinin büyük çoğunluğu kurumsal müşterilerdir.
+a UK-based online retailer
+store's sales between 01/12/2009 and 09/12/2011
+includes.
+This company's product catalog includes souvenirs.
+The majority of the company's customers are corporate clients.
 
 
-## Değişkenler
-InvoiceNo – Fatura Numarası 
+## Variables
+InvoiceNo - Invoice Number 
 
-Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder.
+If this code starts with C, it means that the transaction was canceled.
 
-StockCode – Ürün kodu
+StockCode - Product code
 
-Her bir ürün için eşsiz numara.
+Unique number for each product.
 
-Description – Ürün ismi
+Description - Product name
 
-InvoiceDate – Fatura tarihi
+InvoiceDate - Invoice date
 
-UnitPrice – Fatura fiyatı (Sterlin)
+UnitPrice - Invoice price (Pounds)
 
-CustomerID – Eşsiz müşteri numarası
+CustomerID - Unique customer number
 
-Country – Ülke ismi
+Country - Country name
 
-Quantity – Ürün adedi
+Quantity - Product quantity
 
-Faturalardaki ürünlerden kaçar tane satıldığını ifade etmektedir.
+It expresses how many of the products in the invoices were sold.
